@@ -10,7 +10,7 @@ while ( $i < 20) {
     echo "<br>" . $i;
 
 
-    $res = ( $i < 18) ?"- Manor de Idade":"- Maior de idade";
+    $res = ( $i < 18) ?"- Menor de Idade":"- Maior de idade";
     echo  $res ;  
 
    /* if( $i < 18 ) {
