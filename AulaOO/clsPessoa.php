@@ -7,7 +7,7 @@ class Pessoa{
         $this->nome = $nome;
         $this->altura = $altura;
         $this->cidade = $cidade;
-}
+    }
 
 }
 
