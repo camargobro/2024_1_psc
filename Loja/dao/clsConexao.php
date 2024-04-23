@@ -1,7 +1,6 @@
 <?php
 
-class Conexao{
-
+class Conexao{      
     private static function abrir(){
         $banco = "market";
         $local = "localhost";
